@@ -1,2 +1,16 @@
-# easy_dent
-The app is an e-Dental Clinic where doctors can follow up on patients, receive patients, and provide online consultations. Patients can book appointments with doctors, request consultations and medical examinations, and obtain information through artificial intelligence based on symptoms provided by the AI dentist.
+# easy_dent2
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
